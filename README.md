@@ -9,7 +9,7 @@ for the Income Evaluation. The reason behind duplicating the file was to keep th
 Instruction for running the code:
     Simply execute the cells the in the order given and everything should run just fine. The code files are in the correct directory to interact with the data folder with no errors. Make sure the modules listed in the first cell of the notebook are all installed on your machine.
 
-
+GitHub Link: https://github.com/HuseyinAltnsk/cs7641-ml
 
 
 
