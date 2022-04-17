@@ -1,6 +1,8 @@
-import copy
+# Adjusted code taken from: https://medium.com/swlh/frozen-lake-as-a-markov-decision-process-1692815ecfd1
+
 import random
 import numpy as np
+
 class Agent():
     def __init__(self, mdp, discount_rate=1.0, theta=0.05):
         """

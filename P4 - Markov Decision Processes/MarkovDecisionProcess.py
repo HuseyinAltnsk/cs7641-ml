@@ -1,3 +1,5 @@
+# Adjusted code taken from: https://medium.com/swlh/frozen-lake-as-a-markov-decision-process-1692815ecfd1
+
 import numpy as np
 
 class MarkovDecisionProcess():
